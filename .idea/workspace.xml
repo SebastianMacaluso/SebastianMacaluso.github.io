@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37040697-a219-4c3c-bba8-b9ef7db3531f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config_dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config_dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/01_about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/01_about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_layout.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_syntax-highlighting.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.scss" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="be5647fd-f120-43e9-a88e-c2ec4ccb31fa" />
+  <component name="ProjectId" id="1w6TCWsYeSsVdbhSzP2D8jH5sTF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37040697-a219-4c3c-bba8-b9ef7db3531f" name="Default Changelist" comment="" />
+      <created>1627777910503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627777910503</updated>
+      <workItem from="1627777911855" duration="11464000" />
+      <workItem from="1627851475835" duration="16629000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="346" y="178" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1627861041141">
+      <screen x="0" y="25" width="1280" height="738" />
+    </state>
+    <state x="346" y="178" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1280.736@0.25.1280.736" timestamp="1627845073196" />
+    <state x="346" y="178" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1280.738@0.25.1280.738" timestamp="1627861041141" />
+    <state x="21" y="25" key="SettingsEditor" timestamp="1628034781427">
+      <screen x="0" y="25" width="1280" height="739" />
+    </state>
+    <state x="21" y="25" key="SettingsEditor/0.25.1280.736@0.25.1280.736" timestamp="1627843306262" />
+    <state x="21" y="25" key="SettingsEditor/0.25.1280.739@0.25.1280.739" timestamp="1628034781427" />
+  </component>
+</project>

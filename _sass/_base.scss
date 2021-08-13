@@ -65,9 +65,10 @@ blockquote {
   }
 }
 
+//Change this width to change the image size
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 36%;
     .address {
       p { display: block; }
     }
@@ -210,11 +211,11 @@ blockquote {
 // Footer
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   .container {
     color: var(--global-footer-text-color);
-    padding-top: 9px;
-    padding-bottom: 8px;
+    padding-top: 4px;
+    padding-bottom: 2px;
   }
   a {
     color: var(--global-footer-link-color);
@@ -500,4 +501,40 @@ html.transition *:before,
 html.transition *:after {
   transition: all 750ms !important;
   transition-delay: 0 !important;
+}
+
+
+
+///columns
+.first-column {
+    width: 30%;
+    padding: 0 0px 0px 0;
+    float: left;
+}
+
+
+
+.second-column {
+    width: 50%;
+    padding: 0 0px 0 0;
+    float: right;
+}
+
+
+
+
+@media only screen and (max-width: 100%) {
+
+   .first-column {
+        width: 100%;
+        padding-bottom: 0px;
+        float: none;
+    }
+
+    .second-column {
+        width: 100%;
+        padding-bottom: 0px;
+        float: none;
+    }
+
 }

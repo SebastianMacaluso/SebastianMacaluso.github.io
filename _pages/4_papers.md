@@ -16,7 +16,7 @@ Craig S Greenberg, **Sebastian Macaluso**, Nicholas Monath, Avinava Dubey, Patri
 **Cluster Trellis: Data Structures & Algorithms for Exact Inference in Hierarchical Clustering**  
 C. S. Greenberg, **S. Macaluso**, N. Monath, J.-A. Lee, P. Flaherty, K. Cranmer,
 A. McGregor, and A. McCallum   
-The 24th International Conference on Artificial Intelligence and Statistics (AISTATS 2021) [[<u> conference paper </u>]](https://openreview.net/forum?id=imgfvlsXdo3) [[<u> arXiv </u>]](https://arxiv.org/abs/2002.11661)) [[<u> code </u>]](https://github.com/SebastianMacaluso/ClusterTrellis)  
+The 24th International Conference on Artificial Intelligence and Statistics (AISTATS 2021) [[<u> conference paper </u>]](http://proceedings.mlr.press/v130/macaluso21a/macaluso21a.pdf) [[<u> arXiv </u>]](https://arxiv.org/abs/2002.11661)) [[<u> code </u>]](https://github.com/SebastianMacaluso/ClusterTrellis)  
 (Also: The 4th Workshop on Tractable Probabilistic Modeling [[<u> workshop paper </u>]](https://openreview.net/forum?id=imgfvlsXdo3))
 
 
@@ -29,7 +29,7 @@ NeurIPS workshop on Machine Learning and the Physical Sciences (ML4PS 2020) [[<u
 <br>
 **Reframing Jet Physics with New Computational Methods**    
 Kyle Cranmer, Matthew Drnevich, **Sebastian Macaluso**, Duccio Pappadopulo (authors in alphabetical order)   
-25th International Conference on Computing in High-Energy and Nuclear Physics [<u> conference paper soon </u>]  [[<u> arXiv </u>]](https://arxiv.org/abs/2105.10512)
+25th International Conference on Computing in High-Energy and Nuclear Physics [[<u> conference paper </u>]](https://www.epj-conferences.org/articles/epjconf/abs/2021/05/epjconf_chep2021_03059/epjconf_chep2021_03059.html)  [[<u> arXiv </u>]](https://arxiv.org/abs/2105.10512)
 
 **The Machine Learning Landscape of Top Taggers**   
 Gregor Kasieczka, Tilman Plehn, **S. Macaluso** et al.    

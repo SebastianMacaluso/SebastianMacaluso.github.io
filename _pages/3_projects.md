@@ -2,7 +2,7 @@
 layout: page
 title: Projects/Code
 permalink: /projects/
-description: Selected projects 
+description: Collection of selected projects 
 nav: true
 display_categories:
 horizontal: false

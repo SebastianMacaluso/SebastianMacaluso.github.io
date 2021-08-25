@@ -3,13 +3,14 @@ layout: page
 title: Ginkgo
 description: Simplified Generative Model for Jets
 img: /assets/img/ginkgo.png
+github: https://github.com/SebastianMacaluso/ginkgo
 importance: 1
 category: work
 ---
 
 Ginkgo is a generative model to aid in machine learning (ML) research for jet physics. Ginkgo is implemented in [<u> Pyro </u>](https://pyro.ai/) and facilitates research with:
  * Dynamic programming
- * Differentialble programming
+ * Differentiable programming
  * Probabilistic programming
  * Variational inference
  

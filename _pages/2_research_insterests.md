@@ -10,3 +10,4 @@ horizontal: false
 * Combinatorial optimization, hierarchical clustering
 * Inductive bias
 * Autoregressive models
+* Variational Inference

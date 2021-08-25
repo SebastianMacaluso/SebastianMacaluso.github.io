@@ -3,33 +3,29 @@
   <component name="ChangeListManager">
     <list default="true" id="37040697-a219-4c3c-bba8-b9ef7db3531f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config_dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config_dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/social.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/social.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes_original/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes_original/head.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes_original/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes_original/projects.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes_original/scripts/bootstrap.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes_original/scripts/jquery.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes_original/scripts/mansory.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes_original/scripts/mathjax.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes_original/scripts/misc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default_old.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page_old.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/01_about.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/02_contact.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/03_projects.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/1_project.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/1_project.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/jill.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/ted.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts_old/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts_old/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts_old/page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts_old/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/2_research_insterests.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/2_research_insterests.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/3_projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/3_projects.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/4_papers.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/4_papers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/5_code.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/5_code.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/6_talks.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/6_talks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/1_project.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/2_project.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/3_project.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/4_project.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/5_project.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/5_project.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/6_project.markdown" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_sass/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_base.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css_original/main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_themes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_themes.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/ginkgo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/ginkgo.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +60,7 @@
       <updated>1627777910503</updated>
       <workItem from="1627777911855" duration="11464000" />
       <workItem from="1627851475835" duration="54046000" />
-      <workItem from="1628871916291" duration="179000" />
+      <workItem from="1628871916291" duration="20845000" />
     </task>
     <servers />
   </component>
@@ -82,5 +78,9 @@
     </state>
     <state x="21" y="25" key="SettingsEditor/0.25.1280.736@0.25.1280.736" timestamp="1627843306262" />
     <state x="21" y="25" key="SettingsEditor/0.25.1280.739@0.25.1280.739" timestamp="1628034781427" />
+    <state x="202" y="25" width="840" height="1034" key="search.everywhere.popup" timestamp="1629302236299">
+      <screen x="0" y="25" width="1280" height="736" />
+    </state>
+    <state x="202" y="25" width="840" height="1034" key="search.everywhere.popup/0.25.1280.736@0.25.1280.736" timestamp="1629302236299" />
   </component>
 </project>

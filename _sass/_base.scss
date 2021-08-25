@@ -2,6 +2,14 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+
+body {
+      //font-family: "Arial", Arial, sans-serif;
+  //font-family: "Candara", Candara, sans-serif;
+  font-family: "Helvetica", Helvetica, sans-serif;
+    //font-family: "Verdana", Verdana, sans-serif;
+}
+
 // Typography
 
 p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
@@ -40,7 +48,7 @@ blockquote {
   font-size: 0.875rem;
   margin-top: 0.75rem;
   margin-bottom: 1.5rem;
-  text-align: center;
+  text-align: left;
 }
 
 // Citation
@@ -324,16 +332,20 @@ footer.sticky-bottom {
 
   .card-item {
     width: auto;
+    //box-sizing: border-box;
     margin-bottom: 10px;
 
     .row {
       display: flex;
       align-items: center;
+      //box-sizing: border-box;
     }
   }
 
   .grid-item {
     width: 250px;
+    height: 400px;
+    box-sizing: border-box;
     margin-bottom: 10px;
   }
 

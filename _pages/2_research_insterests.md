@@ -6,8 +6,8 @@ nav: true
 horizontal: false
 ---
 
-* Simulations and probabilistic models
-* Combinatorial optimization, hierarchical clustering
+* Combinatorial optimization
+* Clustering, hierarchical clustering
 * Inductive bias
-* Autoregressive models
 * Variational Inference
+* Simulations and probabilistic models

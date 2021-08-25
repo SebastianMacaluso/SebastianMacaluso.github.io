@@ -3,29 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="37040697-a219-4c3c-bba8-b9ef7db3531f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config_dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config_dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts_old/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts_old/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts_old/page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts_old/post.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/2_research_insterests.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/2_research_insterests.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/3_projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/3_projects.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/4_papers.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/4_papers.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/5_code.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/5_code.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/6_talks.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/6_talks.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/1_project.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/2_project.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/3_project.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/4_project.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/5_project.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/5_project.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/6_project.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_base.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_sass/_themes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_themes.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/ginkgo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/ginkgo.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +39,7 @@
       <updated>1627777910503</updated>
       <workItem from="1627777911855" duration="11464000" />
       <workItem from="1627851475835" duration="54046000" />
-      <workItem from="1628871916291" duration="20845000" />
+      <workItem from="1628871916291" duration="21779000" />
     </task>
     <servers />
   </component>

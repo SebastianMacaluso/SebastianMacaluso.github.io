@@ -14,7 +14,7 @@ footer_text:
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 icon:  # the emoji used as the favicon
 
-baseurl: ""
+baseurl:
 url: "http://localhost:4000"
 
 
@@ -66,6 +66,23 @@ contact_note: >
 
 google_analytics:  # out your google-analytics code
 panelbear_analytics:  # panelbear analytics site ID
+
+
+# -----------------------------------------------------------------------------
+# Blog
+# -----------------------------------------------------------------------------
+
+blog_name:  # your blog must have a name for it to show up in the nav bar
+blog_description:
+permalink:
+
+# Pagination
+pagination:
+  enabled: true
+
+# Comments
+disqus_shortname:  # put your disqus shortname
+# https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 
 # -----------------------------------------------------------------------------

@@ -15,8 +15,8 @@ footer_text:
 icon:  # the emoji used as the favicon
 
 baseurl:
-url: "https://github.com/SebastianMacaluso/SebastianMacaluso.github.io"
-
+#url: "https://github.com/SebastianMacaluso/SebastianMacaluso.github.io"
+url:
 
 
 

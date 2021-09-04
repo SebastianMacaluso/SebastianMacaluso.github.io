@@ -79,7 +79,7 @@ permalink:
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 # Comments
 disqus_shortname:  # put your disqus shortname

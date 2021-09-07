@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Hierarchical Clustering Using A*
-description: Exact and Approximate Hierarchical Clustering Using A*
+description: Exact and Approximate Hierarchical Clustering Using A* <br>  More details here
+link: test2222 
 img: /assets/img/Astar_icon.png
 github: https://github.com/SebastianMacaluso/AstarTrellis
 importance: 1

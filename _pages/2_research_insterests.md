@@ -8,6 +8,7 @@ horizontal: false
 
 * Combinatorial optimization
 * Clustering, hierarchical clustering
-* Inductive bias
+* Explainability, causality and inductive bias
 * Variational Inference
-* Simulations and probabilistic models
+* Simulations and probabilistic inference
+* Reinforcement learning

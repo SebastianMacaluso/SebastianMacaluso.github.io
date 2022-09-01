@@ -1,23 +1,30 @@
 ---
 layout: page
 permalink: /Papers/
-title: Papers
+title: Selected Papers
 nav: true
 horizontal: false
 ---
 
-##### Combinatorial Optimization / Hierarchical Clustering
+##### Combinatorial Optimization / Hierarchical Clustering / Reinforcement Learning
 <br>
+**The Quantum Trellis: A classical algorithm for sampling the parton shower with interference effects**  
+**Sebastian Macaluso** and Kyle Cranmer  
+NeurIPS workshop on Machine Learning and the Physical Sciences (ML4PS 2021) [[<u> workshop paper </u>]](https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_107.pdf)[[<u> arXiv </u>]](https://arxiv.org/abs/2112.12795)
+
+
 **Exact and Approximate Hierarchical Clustering Using A***  
-Craig S Greenberg, **Sebastian Macaluso**, Nicholas Monath, Avinava Dubey, Patrick Flaherty, Manzil Zaheer, Amr Ahmed, Kyle Cranmer, Andrew McCallum  
+Craig S Greenberg\*, **Sebastian Macaluso**\*, Nicholas Monath\*, Avinava Dubey, Patrick Flaherty, Manzil Zaheer, Amr Ahmed, Kyle Cranmer, Andrew McCallum  
 37th Conference on Uncertainty in Artificial Intelligence (UAI 2021) [[<u> conference paper </u>]](https://www.auai.org/uai2021/pdf/uai2021.770.pdf) [[<u> arXiv </u>]](https://arxiv.org/abs/2104.07061) [[<u> code </u>]](https://github.com/SebastianMacaluso/AstarTrellis)  
 
 
 **Cluster Trellis: Data Structures & Algorithms for Exact Inference in Hierarchical Clustering**  
-C. S. Greenberg, **S. Macaluso**, N. Monath, J.-A. Lee, P. Flaherty, K. Cranmer,
+C. S. Greenberg\*, **S. Macaluso**\*, N. Monath, J.-A. Lee, P. Flaherty, K. Cranmer,
 A. McGregor, and A. McCallum   
 The 24th International Conference on Artificial Intelligence and Statistics (AISTATS 2021) [[<u> conference paper </u>]](http://proceedings.mlr.press/v130/macaluso21a/macaluso21a.pdf) [[<u> arXiv </u>]](https://arxiv.org/abs/2002.11661)) [[<u> code </u>]](https://github.com/SebastianMacaluso/ClusterTrellis)  
-(Also: The 4th Workshop on Tractable Probabilistic Modeling [[<u> workshop paper </u>]](https://openreview.net/forum?id=imgfvlsXdo3))
+(Also: Machine Learning and the Physical Sciences workshop at NeurIPS 2020 [[<u> workshop paper </u>]](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_70.pdf)
+The 4th Workshop on Tractable Probabilistic Modeling [[<u> workshop paper </u>]](https://openreview.net/forum?id=imgfvlsXdo3)
+)
 
 
 **Hierarchical clustering in particle physics through reinforcement learning**  
@@ -28,7 +35,7 @@ NeurIPS workshop on Machine Learning and the Physical Sciences (ML4PS 2020) [[<u
 ##### Deep Learning and Statistics for Physics
 <br>
 **Reframing Jet Physics with New Computational Methods**    
-Kyle Cranmer, Matthew Drnevich, **Sebastian Macaluso**, Duccio Pappadopulo (authors in alphabetical order)   
+Kyle Cranmer, Matthew Drnevich, **Sebastian Macaluso**\*, Duccio Pappadopulo (authors in alphabetical order)   
 25th International Conference on Computing in High-Energy and Nuclear Physics [[<u> conference paper </u>]](https://www.epj-conferences.org/articles/epjconf/abs/2021/05/epjconf_chep2021_03059/epjconf_chep2021_03059.html)  [[<u> arXiv </u>]](https://arxiv.org/abs/2105.10512)
 
 **The Machine Learning Landscape of Top Taggers**   
@@ -63,5 +70,5 @@ Ezequiel Koile, **Sebastian Macaluso**, Martin Schvellinger
 Journal of High Energy Physics volume 2014, Article number: 166 (2014)  [[<u> journal paper </u>]](https://link.springer.com/content/pdf/10.1007/JHEP01%282014%29166.pdf) [[<u> arXiv </u>]](https://arxiv.org/abs/1311.2601)
 
 **Deep inelastic scattering from holographic spin-one hadrons**  
-Ezequiel Koile, **Sebastian Macaluso** & Martin Schvellinger   
+Ezequiel Koile, **Sebastian Macaluso** and Martin Schvellinger   
 Journal of High Energy Physics volume 2012, Article number: 103 (2012)  [[<u> journal paper </u>]](https://link.springer.com/content/pdf/10.1007/JHEP02(2012)103.pdf) [[<u> arXiv </u>]](https://arxiv.org/abs/1112.1459)

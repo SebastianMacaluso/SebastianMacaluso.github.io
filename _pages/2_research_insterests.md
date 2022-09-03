@@ -2,7 +2,7 @@
 layout: page
 title: Research Interests
 permalink: /Research Interests/
-nav: true
+nav: false
 horizontal: false
 ---
 

@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 seb.macaluso@nyu.edu <br> 
 <br> 
-I was a postdoctoral researcher in  <a href="https://twitter.com/kylecranmer">Kyle Cranmer</a>'s group at New York University until recently, at the Center for Data Science & the Center for Cosmology and Particle Physics, working at the intersection of particle physics and machine learning, with emphasis on deep learning techniques on structured data, statistical inference and combinatorial optimization.
+Postdoctoral researcher in  <a href="https://twitter.com/kylecranmer">Kyle Cranmer</a>'s group at New York University, at the Center for Cosmology and Particle Physics & the Center for Data Science until recently, working at the intersection of particle physics and machine learning, with emphasis on deep learning techniques on structured data, statistical inference and combinatorial optimization.
 <br>
 <br> 
 **I AM ON THE JOB MARKET FOR MACHINE LEARNING RESEARCH POSITIONS IN INDUSTRY.**

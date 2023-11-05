@@ -20,26 +20,28 @@ social: true  # includes social icons at the bottom of the page
 
 # Sebastian Macaluso
 
-seb.macaluso@nyu.edu <br> 
+sebastian.macaluso@telefonica.com <br> 
 <br> 
-Postdoctoral researcher in  <a href="https://twitter.com/kylecranmer">Kyle Cranmer</a>'s group at New York University, at the Center for Cosmology and Particle Physics & the Center for Data Science until recently, working at the intersection of particle physics and machine learning, with emphasis on deep learning techniques on structured data, statistical inference and combinatorial optimization.
+Senior researcher at <a href="https://www.telefonica.com/en/sustainability-innovation/innovation/telefonica-research/">Telefonica Research</a> developing novel deep reinforcement learning, deep learning and quantum computing algorithms to tackle problems involving management and orchestration of telecom networks, cryptography, human-computer interaction, clustering and recommender systems. I am also leading Horizon Europe proposals submission and co-advising PhD and Masters students.
 <br>
-<br> 
-**I AM ON THE JOB MARKET FOR MACHINE LEARNING RESEARCH POSITIONS IN INDUSTRY.**
+<br>
+Previously, I was a postdoctoral researcher in  <a href="https://twitter.com/kylecranmer">Kyle Cranmer</a>'s group at New York University, at the Center for Cosmology and Particle Physics & the Center for Data Science until recently, working at the intersection of particle physics and machine learning, with emphasis on deep learning techniques on structured data, statistical inference and combinatorial optimization.
 <br>
 
 
 
-My background is in particle physics and machine learning. I obtained my PhD in physics at the <a href="https://www.physics.rutgers.edu/het/">New High Energy Theory Center</a> at Rutgers University, advised by Prof. <a href="https://physics.rutgers.edu/people/faculty-list/faculty-profile/shih-david">David Shih</a>. During my postdoc and PhD I had the pleasure to collaborate with <a href="https://twitter.com/kylecranmer">Kyle Cranmer</a> (NYU/UWMadison), <a href="https://people.cs.umass.edu/~nmonath/">  Nicholas Monath </a> (Google), <a href="https://scholar.google.com/citations?user=XXPetHMAAAAJ&hl=en"> Craig Greenberg </a> (NIST), <a href="https://johannbrehmer.github.io/">  Johann Brehmer</a> (Qualcomm), <a href="https://physics.rutgers.edu/people/faculty-list/faculty-profile/shih-david">David Shih</a> (Rutgers), <a href="https://scholar.google.com/citations?hl=en&user=_AezOKYAAAAJ&view_op=list_works&sortby=pubdate"> Duccio Pappadopulo </a> (Bloomberg), <a href="https://people.math.umass.edu/~flaherty/member/patrickflaherty/"> Patrick Flaherty </a> (UMass), <a href="http://www.physicsmatt.com/"> Matthew  Buckley  </a> (Rutgers), and more (see <a href="/Papers/">Papers</a> section)!
 
 
-# Research Interests & Experience
 
-Combinatorial optimization, for which methods search over an enormous space of solutions, appears through natural science for tasks such as discovering phylogenetic trees or jets in particle physics. At the Large Hadron Collider at CERN, quarks and gluons undergo an unobserved, tree-like process of radiation leading to a collimated spray of observed particles (leaves) called a “jet”. I developed deep learning algorithms that successfully solve downstream tasks, without explicitly inferring the (unobserved) tree structure. However, typically the objective is to find the “correct”/ground-truth hierarchical clustering (HC), which would also make solutions to these downstream tasks optimal. Search-based methods for HC are great to explore these natural science applications, by finding the maximum likelihood tree and/or the marginal likelihood over this enormous search space of (2N-3)!! hierarchies, given N leaves. I detail below my work on new combinatorial optimization algorithms that improved over previous state-of-the-art.
+My background is in deep learning, particle physics and statistical inference. I obtained my PhD in physics at the <a href="https://www.physics.rutgers.edu/het/">New High Energy Theory Center</a> at Rutgers University, advised by Prof. <a href="https://physics.rutgers.edu/people/faculty-list/faculty-profile/shih-david">David Shih</a>. During my postdoc and PhD I had the pleasure to collaborate with <a href="https://twitter.com/kylecranmer">Kyle Cranmer</a> (NYU/UWMadison), <a href="https://people.cs.umass.edu/~nmonath/">  Nicholas Monath </a> (Google), <a href="https://scholar.google.com/citations?user=XXPetHMAAAAJ&hl=en"> Craig Greenberg </a> (NIST), <a href="https://johannbrehmer.github.io/">  Johann Brehmer</a> (Qualcomm), <a href="https://physics.rutgers.edu/people/faculty-list/faculty-profile/shih-david">David Shih</a> (Rutgers), <a href="https://scholar.google.com/citations?hl=en&user=_AezOKYAAAAJ&view_op=list_works&sortby=pubdate"> Duccio Pappadopulo </a> (Bloomberg), <a href="https://people.math.umass.edu/~flaherty/member/patrickflaherty/"> Patrick Flaherty </a> (UMass), <a href="http://www.physicsmatt.com/"> Matthew  Buckley  </a> (Rutgers), and more (see <a href="/Papers/">Papers</a> section)!
 
-I work in machine learning algorithms, including probabilistic modeling, neural architectures for supervised tasks, as well as unsupervised settings involving combinatorial optimization problems. Potential applications include natural language processing (NLP), such as record linkage or semantic parsing and structure prediction, both in NLP as well as natural sciences such as jet sub-structure in particle physics or phylogenetic trees.
 
-I am broadly interested in machine learning explainability, causality and inductive bias in supervised/unsupervised settings, as well as combinatorial optimization, including areas such as (hierarchical) clustering, variational inference, simulations, probabilistic inference, and reinforcement learning.
+# Research Interests & Past Experience
+
+I am broadly interested in deep reinforcement learning, deep learning, statistical modeling and quantum computing algorithms, involving discrete combinatorial optimization, LLMs and natural language processing, (hierarchical) clustering, regression, classification, recommender systems, management and orchestration tasks. 
+
+I developed machine/deep learning algorithms, including probabilistic modeling, neural architectures for supervised tasks, as well as unsupervised settings involving combinatorial optimization problems. Potential applications include natural language processing (NLP), such as record linkage or semantic parsing and structure prediction, both in NLP as well as natural sciences such as jet sub-structure in particle physics or phylogenetic trees.
+
 
 
 #### Natural Language Processing - Clustering - Deep Learning
@@ -83,6 +85,7 @@ See <a href="/Papers/">Papers</a> section.
 
 # Awards
 
+- Seal of Excellence, European Comission, HORIZON-EIC-2023-PATHFINDEROPEN.
 - Spotlight talk, ``Exact and Approximate Hierarchical Clustering Using A*", UAI 2021.
 - NVIDIA GPU Grant, Dec. 2018.
 - Richard J. Plano Outstanding Teaching Assistant Award, Rutgers University, 2014.

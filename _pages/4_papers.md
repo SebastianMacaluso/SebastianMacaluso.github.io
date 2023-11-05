@@ -8,6 +8,11 @@ horizontal: false
 
 ##### Combinatorial Optimization / Hierarchical Clustering / Reinforcement Learning
 <br>
+**Computing the Bayes-optimal classifier and exact maximum likelihood estimator with a semi-realistic generative model for jet physics**  
+Matthew Drnevich, Lauren Greenspan, **Sebastian Macaluso**, Kyle Cranmer, Duccio Pappadopulo                                                                                                       
+NeurIPS workshop on Machine Learning and the Physical Sciences (ML4PS 2022) [[<u> workshop paper </u>]](https://ml4physicalsciences.github.io/2022/files/NeurIPS_ML4PS_2022_32.pdf)
+
+
 **The Quantum Trellis: A classical algorithm for sampling the parton shower with interference effects**  
 **Sebastian Macaluso** and Kyle Cranmer  
 NeurIPS workshop on Machine Learning and the Physical Sciences (ML4PS 2021) [[<u> workshop paper </u>]](https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_107.pdf)[[<u> arXiv </u>]](https://arxiv.org/abs/2112.12795)
